@@ -17,7 +17,7 @@ The four sessions are as follow:
 ## Software requirements
 - [Anaconda](https://www.anaconda.com/distribution/#download-section) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) (recommended)
   - Python 3.8 is recommended, 3.6/3.7 are ok. Python 2.7 is end of life and should not be used.
-- Python modules as listed in [requirements.txt]
+- Python modules as listed in [requirements.txt](requirements.txt)
 - (Optional) [Docker](https://www.docker.com/products/docker-app)
 - A bash terminal (or similar), OSX/Linux will have this already, Windows users should install [GitBash](https://gitforwindows.org/)
 
