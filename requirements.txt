@@ -1,0 +1,7 @@
+jupyterlab
+numpy
+scipy
+astropy
+line_profiler
+memory_profiler
+#TODO: set version numbers for the above
