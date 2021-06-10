@@ -15,4 +15,4 @@ dependencies:
   - pip
   - pip:
     - line_profiler
-    - memory_profilier
+    - memory_profiler
