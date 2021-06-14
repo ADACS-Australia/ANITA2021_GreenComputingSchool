@@ -1,0 +1,5 @@
+fish 0 7
+cat 12 4
+book 4 2
+fox 0 0
+trumpet 11 12
